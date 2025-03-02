@@ -5,12 +5,12 @@
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Pseudo-Company" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Pseudo-Company" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Pseudo-Company" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Pseudo-Company" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Pseudo-Company?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPseudo-Lab%2FPseudo-Company&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo-Company/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Group/Pseudo-Group-Forum" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo-Company/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Group/Pseudo-Group-Forum" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo-Company/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Group/Pseudo-Group-Forum" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo-Company/issues"><img src="https://img.shields.io/github/issues/Pseudo-Group/Pseudo-Group-Forum" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Pseudo-Company/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Group/Pseudo-Group-Forum?color=2b9348"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPseudo-Group%2FPseudo-Group-Forum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 
