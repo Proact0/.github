@@ -1,12 +1,55 @@
-## Hi there 👋
+# Pseudo Group
 
-<!--
+![image](https://github.com/user-attachments/assets/f5650161-2d4c-4ca7-833b-5243640c4219)
 
-**Here are some ideas to get you started:**
+- 가짜 회사에서는 기술과 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Agent들을 개발합니다.
+- 각자가 원하는 Agent를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
+- 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Three Major Goals Shared Across All Companys in Group
+
+![image](https://github.com/user-attachments/assets/68a45edb-57b9-4ae6-bf78-b2a99df99f87)
+
+### 1. Professional Agents
+
+- CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 지속적으로 증원하는 것을 목표로 합니다.
+- Pseudo Company의 Agent들이 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
+- 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
+
+### 2. Perfect Multi-Agent Orchestration
+
+- 개발한 Agent들이 원활하게 협업을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
+- 가짜 회사의 Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+
+### 3. All-in-one Agent Collaboration Visualization
+
+- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하는 것을 목표로 합니다.
+- 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Agent들의 흐름을 추적합니다.
+
+# 우리의 시너지(Synergy)
+
+### 🔍 궁금한 건 못 참지
+
+- 저희의 모든 프로젝트들은 호기심에서 시작합니다.
+- 생성적인 질문들을 하며 기본에 도전하고 타인과 경청하고 예측할 수 없는 것들을 환영하는 그런 소양을 가지도록 합시다.
+
+### 🧗 도전하는 것을 주저하지 말자.
+
+- 도전정신으로 모든 일을 임하면 어느샌가 더 높은 위치에 서있는 나 자신을 발견하게 될 것 입니다.
+
+### 😤 능동적으로 행동하자.
+
+- 목적의식을 뚜렷이 가지고 행동해봅시다.
+- 자신이 하고 싶은 것과 해야 할 것을 알고 일을 찾아서 하는 건 뿌듯한 일이죠.
+- 목표를 세우고 이루기 위해 노력하는 것 만큼 멋진 것도 없습니다.
+
+### 🧱 "벽은 부수라고 있는 거야"
+
+- 어느 뇌과학 연구에서 “한계는 뇌가 만들어낸 허상’이라 라는 결과가 있습니다.
+- 뇌는 현재 투입되는 노력을 고려해서 극에 달하는 상태까지 가는 것을 막기 위해 한계 범위를 만든다는 것입니다.
+- 우리는 우리의 미래와 성공에 대해 스스로 한계를 짓지 않고 목표를 향해 의식적으로 행동하며 잠재력을 끌어 올리는 중입니다.
+
+### ❤️‍🔥 너는 열정이 너무 뜨거워서 컵라면도 열정으로 끓여 먹겠다.
+
+- 해야하는 일은 어느 일이던 정해져 있습니다. 대부분의 사람들은 그 일이 끝나게 되면 더이상 바라보지 않습니다.
+- 그러나 우리는 그에 그치지 않고 더 나아가서 새로운 판로를 개척해나가는 분들과 함께해 긍적적인 작용들을 원합니다.
