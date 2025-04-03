@@ -1,9 +1,9 @@
 # Pseudo Group
-> Pseudo Group은 가짜연구소(Pseudo Lab) 소속의 Agent의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티 입니다.
+> Pseudo Group은 가짜연구소(Pseudo Lab) 소속의 Agentic-AI의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티입니다.
 
-> 저희는 모든 회사(Company)에서 각 특성에 맞게 자동화 Professional Multi-agent Orchestration System을 구축하며, 각 분야의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+> 저희는 모든 회사(Company)에서 각 팀(Team)의 특성에 맞게 Agentic-AI System을 구축하며, 각 분야의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
 
-> 저희는 그룹(Organization)안에서 원하는 회사(Repository)에 필요한 Agent를 능동적으로 설계하며 구현해 나아갑니다.
+> 저희는 그룹(Organization)안에서 원하는 회사(Repository)에 필요한 Professional Agent들을 능동적으로 설계하며 구현해 나아갑니다.
 
 ![image](https://github.com/user-attachments/assets/f5650161-2d4c-4ca7-833b-5243640c4219)
 
