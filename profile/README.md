@@ -12,7 +12,7 @@
 - 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
 
 # Three Major Goals Shared Across All Companys in Group
-![image](https://github.com/user-attachments/assets/63a40765-9eb4-4e00-a0e1-a755cb56cefb)
+![image](https://github.com/user-attachments/assets/d0647caf-c8f4-48ba-93d1-69a8aca692ea)
 
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
