@@ -12,8 +12,8 @@
 - 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
 
 # Three Major Goals Shared Across All Companys in Group
+![image](https://github.com/user-attachments/assets/63a40765-9eb4-4e00-a0e1-a755cb56cefb)
 
-![image](https://github.com/user-attachments/assets/68a45edb-57b9-4ae6-bf78-b2a99df99f87)
 
 #### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
 - ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Professional Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
