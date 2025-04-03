@@ -15,23 +15,22 @@
 
 ![image](https://github.com/user-attachments/assets/68a45edb-57b9-4ae6-bf78-b2a99df99f87)
 
-### 1. Professional Agents
-
-- CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 지속적으로 증원하는 것을 목표로 합니다.
-- Pseudo Company의 Agent들이 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
+#### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
+- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Professional Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
+- Professional Agent는 모두 ${\textsf{\color{ProcessBlue}Agentic AI System(Agentic Workflow)}}$ 형태를 띄고 있습니다.
+- Professional Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
-### 2. Perfect Multi-Agent Orchestration
+#### 두번째 목표: ${\textsf{\color{YellowOrange}Complete Agentic Collaboration}}$
+- Professional Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 이상적인 Agentic Collaboration System 환경을 조성하는 것을 목표로 합니다.
+- 가짜 회사의 Professional Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$  회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
-- 개발한 Agent들이 원활하게 협업을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
-- 가짜 회사의 Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+#### 세번째 목표: ${\textsf{\color{YellowOrange}All-in-one Agentic Collaboration Visualization}}$
+- 실제로 Professional Agent들이 협업하는 모습을 ${\textsf{\color{ProcessBlue}홈페이지/프로그램으로 시각화}}$하는 것을 목표로 합니다.
+- 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Professional Agent들의 흐름을 추적합니다.
 
-### 3. All-in-one Agent Collaboration Visualization
 
-- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하는 것을 목표로 합니다.
-- 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Agent들의 흐름을 추적합니다.
-
-# 우리의 시너지(Synergy)
+# 그룹 문화(Our Synergy)
 
 ### 🔍 궁금한 건 못 참지
 
