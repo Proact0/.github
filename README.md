@@ -54,19 +54,25 @@
 
 ## 🎯 프로젝트 목표 (Project Vision)
 ### ${\textsf{\color{WildStrawberry}No Human}}$, ${\textsf{\color{ProcessBlue}Just Agent}}$
-> 우선 순위가 높은 순서대로 정렬해놓았습니다.
+![image](https://github.com/user-attachments/assets/38be7f64-b3ce-431d-aa7e-b688e25b6a19)
 
-#### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
-- Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
+#### Professional Agents
+
+- CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Professional Agent를 개발해 가짜 회사의 가짜 인력을 증원합니다.
+- Professional Agent는 모두 **Agentic AI System(Agentic Workflow)** 형태를 띄고 있습니다.
+- Professional Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
-#### 두번째 목표: ${\textsf{\color{YellowOrange}Multi-Agent Orchestration}}$
-- 개발한 Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 환경을 조성하는 것을 목표로 합니다.
-- 가짜 회사의 Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$ 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+#### Complete Agentic Collaboration
 
-#### 세번째 목표: ${\textsf{\color{YellowOrange}Agent Collaboration Visualization}}$
-- 실제로 Agent가 협업하는 모습을 홈페이지/프로그램으로 시각화하여 ${\textsf{\color{ProcessBlue}가시성 및 UX}}$를 높힐 것 입니다.
+- Professional Agent들이 원활하게 협업을 할 수 있도록 이상적인 Agentic Collaboration System 환경을 조성하는 것을 목표로 합니다.
+- 이 협업은 End-to-End 구조로 해당 작업에 필요한 **기획-운영-개발-생성-배포-관리-유지보수** 이 모든 것을 완전 자율 자동화로 동작시킵니다.
+- 가짜 회사의 Professional Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+
+#### All-in-one Agentic Collaboration Visualization
+
+- 실제로 Professional Agent들이 협업하는 모습을 홈페이지/프로그램으로 시각화하는 것을 목표로 합니다.
+- 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Professional Agent들의 흐름을 추적합니다.
 
 
 ## 🤔 어떤 걸 경험 해볼 수 있나요?
@@ -85,26 +91,8 @@
 
 | 역할                | 이름      | 주요 관심 분야  | 소개 링크   |
 |---------------------|-----------|-----------------|-------------|
-| **Project Manager & Project Leader** | 박중헌    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-1E90FF?style=flat) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon2yb22) [![중헌 아카이브](https://img.shields.io/badge/중헌_아카이브-yellow?style=flat-square&logo=linkedin&logoColor=white)](https://www.hon2yt2ch.life/) |
+| **Group Manager** | 박중헌    | ![LLM](https://img.shields.io/badge/LLM-FF6F61?style=flat) ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat) ![Cloud Infra](https://img.shields.io/badge/Cloud_Infra-1E90FF?style=flat) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hon2yb22) [![중헌 아카이브](https://img.shields.io/badge/중헌_아카이브-yellow?style=flat-square&logo=linkedin&logoColor=white)](https://www.hon2yt2ch.life/) |
 ...
-
-
-## 🚀 가짜 회사 로드맵 (Pseudo Company Roadmap)
-```mermaid
-gantt
-    title 2025 10기 Pseudo Company Agile Process
-    section 핵심 마일스톤 
-    OT 및 팀 역할 배정        :a1, 2025-03-03, 7d
-    Sprint 1                  :a2, after a1, 28d
-    Sprint 2                  :a3, after a2, 28d
-    Sprint 3                  :a4, after a3, 28d
-    Sprint 4                  :a5, after a4, 14d
-    section 부가 활동
-    Pseudo Magical Week       :b1, 2025-03-23, 7d
-    Pseudo Magical Week       :b2, 2025-04-27, 7d
-    Pseudo Conference         :b3, 2025-05-17, 1d
-    Work Shop                 :b4, after b3, 2d
-```
 
 
 ## 🏃 스프린트 진행 방식 (Sprint Process)
@@ -120,53 +108,41 @@ gantt
 |                     | 스프린트 회고                                      |    전체         |
 
 
-## 📅 주요 활동 (Activity Main History)
-일부 활동은 러너(팀원)분들과 협의에 의해 추가될 수 있습니다.
-| 날짜                | 내용                   | 진행 그룹 | 
-| ------------------- | ---------------------- | --------- |
-| 2025/03/03          | OT                     | 전체      |
-| 2025/03/23-03/29    | Magical Week           | 개인      | 
-| 2025/04/07          | Sprint1 Retrospective  | 전체      | 
-| 2025/04/27-05/03    | Magical Week           | 개인      | 
-| 2025/05/05          | Sprint2 Retrospective  | 전체      | 
-| 2025/05/17          | Pseudo Conference      | 전체      | 
-| 2025/05/??-??       | Work Shop(희망사항)     | 전체      |
-| 2025/06/02          | Sprint3 Retrospective  | 전체      |
-| 2025/06/16          | Sprint4 Retrospective  | 전체      |
-
-
 ## 🛠️ 기술 스택 (Technology Stack)
-| 기술                    | 스택      | 
-| ----------------------- | --------- |
-| Language                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ... |
-| AI Framework & Library  | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-FF0072?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=langgraph&logoColor=white) ... | 
-| Web Framework & Library | ?         | 
-| Database                | ?         | 
-| MLOps                   | ![LangSmith](https://img.shields.io/badge/LangSmith-4285F4?style=for-the-badge&logo=langchain&logoColor=white) ... | 
-| DevOps                  | ?         | 
-| Collaboration Tools | ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Wiki](https://img.shields.io/badge/-GitHub%20Wiki-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | 
+
+### Collaboration
+
+| 공지 / 팀채팅 | 카카오톡 |
+| --- | --- |
+| 문서/일정/조직 관리 | Notion |
+| 프로젝트 관리/버그, 이슈(백로그) 추적 | Github Projects/Issues  |
+| Workflow, Architecture 설계 | Google Drive - Drawio |
+| 음성 채팅 | 가짜연구소 Discord 또는 팀 자유 선택 |
+
+### Agent R&D
+
+| 언어 | **`Python`** |
+| --- | --- |
+| 공통 기본 의존성  | `langchain`: LLM 활용 애플리케이션 개발 특화 프레임워크
+| | `langgraph`: Langchain 기능을 확장하여 복잡한 멀티 에이전트 시스템 개발에 특화된 workflow/graph 관리 프레임워크 |
+| 공통 개발/테스트 의존성 | `ipykernel`: Jupyter Notebook(.ipynb)에서 사용되는 IPython 커널(Kernel)을 제공하는 라이브러리 |
+| | `langgraph-cli[inmem]`: LangGraph API 서버를 로컬에서 빌드하고 실행하기 위한 다중 플랫폼 명령줄 도구 |
+| | `pytest`: Python 코드를 단위 테스트 (= 유닛테스트) 하기 위한 TEST Framework |
+| 패키지 관리자 | `uv`: Rust로 작성된 파이썬 패키지 관리 도구, 기존 pip, venv, pip-tools 등의 기능을 통합 |
+| Checker (Git Hook 내장) | `flake8`: Code Quality Check |
+| |`black`: Code Formatting Check |
+| |`isort`: Import Sorting Check |
+| 그 외 Langgraph Workflow 내부 배포 프레임워크 | 팀 자유 선택 (e.g., `CrewAI`, `AutoGen`, `Dify`, etc.) 참고: https://langchain-ai.github.io/langgraph/how-tos/autogen-langgraph-platform/  |
+
+### Web(미정)
+
+| 언어 | ??? |
+| --- | --- |
 
 
 ## 🌱 참여 안내 (How to Engage)
-### 정규 팀원(러너)으로 참여하시려면 러너 모집 기간에 신청해주세요.
-- 정규 모집 기간: 2025.02.19~03.01
-- 링크 : 준비중
-- 1차 모집 인원 : 00명
-
-### 최소 요건
-- 스프린트 이탈 사유가 없으신 분
-- 본인이 맡은 Task를 책임감있게 소화하실 수 있으신 분
-- 연락이 잘 되시는 분
-
-### 최소 역량
-- 참여하시는 분야(웹, AI 등등)에서의 기본 프로그래밍 능력
-- 상호 존중과 열린 자세에 기반한 커뮤니케이션 및 협업 능력
-
-### 저희는 지원자님에게 이런 걸 알고 싶어요!
-- 해당 프로젝트에서 어떤 Task를 주로 맡고 싶으신가요? Agent(AI Backend, RAG, LLM...), Web, Design 등 - 팀 구성에 활용됩니다.
-- 만들고 싶은(or 원하는) Agent가 있나요?
-- 특별히 사용해보고 싶은 기술 스택(Framework, Library, Opensource 등)이 있나요?
-- 프로젝트에서 바라는 점이 있다면?
+> [!IMPORTANT]
+> [모집공고 바로가기](https://www.hon2yt2ch.life/pseudo-group/recruitment)
 
 ### 포텐 넘치는 시너지 (Synergy)
 🔍 궁금한 건 못 참으시는 분
@@ -179,21 +155,11 @@ gantt
 
 ❤️‍🔥 열정이 너무 뜨거워 컵라면 정도는 열정으로 끓이시는 분
 
-
-## 🏅 성과 지표 (Achievement Metrics)
-| 부문                    | 수치      | 
-| ----------------------- | --------- |
-| 개발된 Agent 수         | 0         | 
-
-
 ## 💡 참고 레퍼런스 (Reference)
 - [Tips for building AI Agents](https://www.youtube.com/watch?v=LP5OCa20Zpg): Agent의 전망, 팁
 - [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): HuggingFace AI Agent Course
 - [ADAS, Automated Design of Agentic Systems](https://arxiv.org/pdf/2408.08435): 다른 AI를 설계하는 Meta Agent
 - [ChatDev: Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924): Agent들로 구성된 게임회사
-
-### 최종 산출물 예시: ChatDev
-![image](https://github.com/user-attachments/assets/5340820a-e7e5-4e8d-988e-171dff755dff)
 
 
 ## Acknowledgement 🙏
@@ -205,4 +171,4 @@ Pseudo Company is developed as part of Pseudo-Lab's Open Research Initiative. Sp
 
 ## License 🗞
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
