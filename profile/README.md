@@ -1,11 +1,11 @@
 # Pseudo Group
-> Pseudo Group은 가짜연구소(Pseudo Lab) 소속의 Agentic-AI의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티입니다.
+> “Pseudo Group”은 Agent의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티, OSPO 조직 입니다.
 
-> 저희는 모든 회사(Company)에서 각 팀(Team)의 특성에 맞게 Agentic-AI System을 구축하며, 각 분야의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+> 저희는 모든 도메인에서 각 작업의 특성에 맞게 R&D를 진행하며 Agentic-AI System을 구축하고, 각 분야의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
 
-> 저희는 그룹(Organization)안에서 원하는 회사(Repository)에 필요한 Professional Agent들을 능동적으로 설계하며 구현해 나아갑니다.
+> 저희는 그룹(Organization)안에서 원하는 회사(Repository)에 Agent Team을 담당하고 필요한 Professional Agent들을 능동적으로 설계하며 구현해 나아갑니다.
 
-![image](https://github.com/user-attachments/assets/f5650161-2d4c-4ca7-833b-5243640c4219)
+![nojust](https://github.com/user-attachments/assets/efaeeb15-1f1d-49a0-80ab-715b12006bc2)
 
 - 가짜 회사에서는 기술과 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Agent들을 개발합니다.
 - 각자가 원하는 Agent를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Agent는 자체적으로 자신의 업무를 수행합니다.
@@ -15,18 +15,22 @@
 ![image](https://github.com/user-attachments/assets/d0647caf-c8f4-48ba-93d1-69a8aca692ea)
 
 
-#### 첫번째 목표: ${\textsf{\color{YellowOrange}Professional Agents}}$
-- ${\textsf{\color{ProcessBlue}CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등}}$ 여러분들이 만들고 싶은 모든 Professional Agent를 하나하나 개발해나가며 가짜 회사의 가짜 인력을 증원합니다.
-- Professional Agent는 모두 ${\textsf{\color{ProcessBlue}Agentic AI System(Agentic Workflow)}}$ 형태를 띄고 있습니다.
+#### Professional Agents
+
+- CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Professional Agent를 개발해 가짜 회사의 가짜 인력을 증원합니다.
+- Professional Agent는 모두 **Agentic AI System(Agentic Workflow)** 형태를 띄고 있습니다.
 - Professional Agent가 늘어나면 늘어날 수록 회사의 규모는 커져갈 것 입니다.
 - 가짜 회사는 엔터테인먼트 회사가 될 수도 있고, 게임 회사가 될 수도 있고, 디자인 회사가 될 수도 있습니다.
 
-#### 두번째 목표: ${\textsf{\color{YellowOrange}Complete Agentic Collaboration}}$
-- Professional Agent들이 원활하게 ${\textsf{\color{ProcessBlue}협업}}$을 할 수 있도록 이상적인 Agentic Collaboration System 환경을 조성하는 것을 목표로 합니다.
-- 가짜 회사의 Professional Agent들은 ${\textsf{\color{ProcessBlue}스스로}}$  회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+#### Complete Agentic Collaboration
 
-#### 세번째 목표: ${\textsf{\color{YellowOrange}All-in-one Agentic Collaboration Visualization}}$
-- 실제로 Professional Agent들이 협업하는 모습을 ${\textsf{\color{ProcessBlue}홈페이지/프로그램으로 시각화}}$하는 것을 목표로 합니다.
+- Professional Agent들이 원활하게 협업을 할 수 있도록 이상적인 Agentic Collaboration System 환경을 조성하는 것을 목표로 합니다.
+- 이 협업은 End-to-End 구조로 해당 작업에 필요한 **기획-운영-개발-생성-배포-관리-유지보수** 이 모든 것을 완전 자율 자동화로 동작시킵니다.
+- 가짜 회사의 Professional Agent들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
+
+#### All-in-one Agentic Collaboration Visualization
+
+- 실제로 Professional Agent들이 협업하는 모습을 홈페이지/프로그램으로 시각화하는 것을 목표로 합니다.
 - 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Professional Agent들의 흐름을 추적합니다.
 
 
