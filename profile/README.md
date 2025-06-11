@@ -7,9 +7,9 @@
 
 ![nojust](https://github.com/user-attachments/assets/efaeeb15-1f1d-49a0-80ab-715b12006bc2)
 
-- 기술과 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Actor들을 개발합니다.
+- 기술과 AI를 극한까지 활용하여 여러분들의 일을 대신 수행해 주는 Actor(Professional Agent)들을 개발합니다.
 - 각자가 원하는 Actor를 개발하여 가짜 회사에 입사시킬 수 있고 해당 Actor는 자체적으로 자신의 업무를 수행합니다.
-- 가짜 회사는 AI를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
+- Proact0는 이 Actor를 활용하여 모든 일에서 인간이 투자하는 시간을 0으로 수렴해 나갈 것입니다.
 
 # Three Major Goals Shared Across All Acts in Proact0
 
