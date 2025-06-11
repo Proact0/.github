@@ -1,15 +1,15 @@
-# Pseudo-Company
+# Act
 
 <h1 align="center" style="color:orange;" > ${\textsf{\color{orange}Pseudo Company(가짜 회사)}}$ </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Group/Pseudo-Group-Forum" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Group/Pseudo-Group-Forum" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Group/Pseudo-Group-Forum" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/issues"><img src="https://img.shields.io/github/issues/Pseudo-Group/Pseudo-Group-Forum" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/Pseudo-Company/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Group/Pseudo-Group-Forum?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/Act/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Group/Pseudo-Group-Forum" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Act/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Group/Pseudo-Group-Forum" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Act/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Group/Pseudo-Group-Forum" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Act/issues"><img src="https://img.shields.io/github/issues/Pseudo-Group/Pseudo-Group-Forum" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Act/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Group/Pseudo-Group-Forum?color=2b9348"></a>
 </div>
 <br>
 
