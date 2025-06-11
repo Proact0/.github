@@ -26,7 +26,7 @@
 - 이 협업은 End-to-End 구조로 해당 작업에 필요한 **기획-운영-개발-생성-배포-관리-유지보수** 이 모든 것을 완전 자율 자동화로 동작시킵니다.
 - Act의 Actor들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
-#### All-in-one Agentic Collaboration Visualization
+#### All-in-one Act Visualization
 
 - 실제로 Actor들이 협업하는 모습을 홈페이지/프로그램으로 시각화하는 것을 목표로 합니다.
 - 업무 환경을 가시화시키고 실시간으로 모니터링하면서 Actor들의 흐름을 추적합니다.
