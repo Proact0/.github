@@ -1,9 +1,9 @@
 # Proact0
-> “Proact0”는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체입니다.
-
-> 저희는 모든 도메인에서 각 작업의 특성에 맞게 Research & Develop & Test를 진행하며 Act System을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
-
-> 각각의 Crew Project는 ZeroC(Act 전용 Contribution System) 위에서 원하는 도메인 플랫폼 Act(Product)에서 Cast(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들을 능동적으로 설계하며 구현합니다.
+> “Proact0”는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 **“비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체**입니다.
+> 
+> 저희는 모든 도메인에서 각 작업의 특성에 맞게 **Research & Develop & Test**를 진행하며 **맞춤형 Agentic-AI System**을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+> 
+> 각각의 Crew Project는 ZeroC(Act 전용 Contribution System) 안의 원하는 도메인 플랫폼 **Act(Product)에서 Cast(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들**을 능동적으로 설계하며 구현합니다.
 
 ![nojust](https://github.com/user-attachments/assets/efaeeb15-1f1d-49a0-80ab-715b12006bc2)
 
