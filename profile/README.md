@@ -1,7 +1,7 @@
 # Proact0
-> “Proact0”는 AI Agent의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체입니다.
+> “Proact0”는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 “비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체입니다.
 
-> 저희는 모든 도메인에서 각 작업의 특성에 맞게 R&D를 진행하며 Agentic-AI System을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+> 저희는 모든 도메인에서 각 작업의 특성에 맞게 R&D를 진행하며 Acting System을 구축하고, 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
 
 > 각각의 Team Project는 시스템(System)안의 원하는 도메인 플랫폼 Act(Product)에서 Actor Team(≒ Agent Team)을 담당하고 필요한 Actor(≒ Agent)들을 능동적으로 설계하며 구현합니다.
 
@@ -16,7 +16,7 @@
 #### Actor(Professional Agent)
 
 - CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Actor를 개발해 시스템을 구성합니다.
-- Actor는 모두 **Agentic AI System(Agentic Workflow)** 형태를 띄고 있습니다.
+- Actor는 모두 **Acting(≒ Agentic AI) System** 형태를 띄고 있습니다.
 - Actor가 늘어나면 늘어날 수록 Act의 규모는 커져갈 것 입니다.
 
 #### Act(Complete Agentic Collaboration)
@@ -42,7 +42,7 @@
 ### 🧗 도전하는 것을 주저하지 않도록
 
 - 도전정신으로 모든 일을 임하면 어느샌가 더 높은 위치에 서있는 나 자신을 발견하게 될 것 입니다.
-- Group이라는 뒷받침 속에서 누구나 할 수 없는 혁신적인 도전에 주저하지 않고 참여하세요.
+- 0(Zero)라는 뒷받침 속에서 누구나 할 수 없는 혁신적인 도전에 주저하지 않고 참여하세요.
 
 ### 😤 능동적으로 행동하기
 
