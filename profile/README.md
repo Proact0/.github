@@ -1,5 +1,5 @@
 # Proact0
-> **“Proact0”**는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 **가짜연구소 소속** **“비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체**입니다.
+> **Proact0**는 기존 AI Agent 개념의 발전을 제고하기 위해 설립된 **가짜연구소 소속** **“비영리” 오픈소스 연합 커뮤니티, OSPO(Open Source Program Office) 단체**입니다.
 > 
 > OSPO는 **오픈소스 Act 전용 CMS(Contribution Management System)인 0C(제로크)**를 관리합니다.
 > 
