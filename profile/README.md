@@ -1,11 +1,11 @@
 # Proact0
-> **Proact0**는 AI Agent 개념을 확장시킨 Actor의 발전을 제고하기 위해 설립된 **비영리 커뮤니티 연합체**입니다.
+> **Proact0**는 AI Agent 개념을 확장시킨 Actor의 발전을 제고하기 위해 설립된 비영리 오픈소스 커뮤니티 연합체입니다.
 > 
-> 저희는 오픈소스 **Act**(ADPT: Actor Domain Platform Template)에서 각 도메인의 생산성을 비약적으로 증대시키려는 목적을 가지고 있습니다.
+> 저희는 오픈소스 Act(ADPT: Actor Domain Platform Template)에서 각 도메인의 생산성을 AX(AI Transformation)를 통해 비약적으로 향상시키는 것을 목표로 합니다.
 > 
-> 각각의 Crew Project는 **Act에서 작업에 맞는 Cast(≈ AI Agent Team)를 담당하고, 필요한 Actor(≈ AI Agent)들**을 직접 R&D하며 구현합니다.
+> 각각의 Crew Project는 Act에서 작업에 맞는 Cast(≈ AI Agent Team)를 담당하고, 필요한 Actor(≈ AI Agent)들을 직접 R&D하며 구현합니다.
 > 
-> 오로지 Proact0에만 존재하는 **0C**(ACMS: Act Contribution Management System)는 Act들을 안정적으로 관리할 수 있게 해주고 무한한 확장성을 보장해줍니다.
+> 0C(ACMS: Act Contribution Management System)가 Act들을 안정적으로 관리할 수 있게 해주고 무한한 확장성을 보장해줍니다.
 
 ![nojust](https://github.com/user-attachments/assets/efaeeb15-1f1d-49a0-80ab-715b12006bc2)
 
