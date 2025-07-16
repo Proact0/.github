@@ -62,3 +62,5 @@
 
 - 해야하는 일은 어느 일이던 정해져 있습니다. 대부분의 사람들은 그 일이 끝나게 되면 더이상 바라보지 않습니다.
 - 그러나 우리는 그에 그치지 않고 더 나아가서 새로운 판로를 개척해나가는 분들과 함께해 긍적적인 작용들을 원합니다.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="proact0" data-color="#2563eb" data-emoji="😎"  data-font="Lato" data-text="Buy us a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
