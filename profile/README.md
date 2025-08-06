@@ -19,14 +19,15 @@
 
 #### Actor(Professional Agent)
 
+- Actor는 AI를 활용하여 단일 최소 “기능” 하나(ex. 매도, 노래 제작, 댓글 작성)를 인간의 개입(Human in the Loop)을 최소화하여 수행할 수 있는 프로페셔널한 작업자(≒직업)를 지칭합니다.
 - CEO, CTO, 개발자, 기획자, 디자이너, 마케터, 테스터, 웹툰 작가, 화가, 아이돌 등 여러분들이 만들고 싶은 모든 Actor를 개발해 솔루션을 구성합니다.
 - Actor가 늘어나면 늘어날 수록 Act의 규모는 커져갈 것 입니다.
 
 #### Cast(Complete Agentic Collaboration)
 
-- Cast는 하나의 Agent Team을 지칭합니다. Crew에서 목적에 맞는 Cast들을 관리하며 Act에 속한 범주입니다.
-- Cast는 모두 **Acting(≒ Agentic AI) System** 형태를 띄고 있습니다.
-- Actor들이 원활하게 협업을 할 수 있도록 이상적인 협업 환경 조성하는 것을 목표로 합니다.
+- Cast는 하나의 Agent Team을 지칭합니다. Crew에서 목적에 맞는 Cast들을 관리합니다. Act에 속한 범주입니다.
+- Cast는 모두 **Acting(≒ Agentic AI) System** 디자인 패턴을 사용합니다.
+- Actor들이 하나의 범주 문제/작업을 전략적으로 원활하게 협업을 할 수 있도록 이상적인 협업 환경 조성하는 것을 목표로 합니다.
 - Cast의 Actor들은 스스로 회의를 하고, 이슈를 해결하고, 성과를 창출해낼 것 입니다.
 
 #### Act(Actor Domain Platform Template)
