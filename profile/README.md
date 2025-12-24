@@ -6,5 +6,3 @@
 > [!NOTE]
 > **Proact0**: **The open-source community hub** defining standards and references for efficient, consistent AI Transformation (AX).
 > Leading the standard for AX architecture, workflows, and operational excellence.
-
-![nojust](https://github.com/user-attachments/assets/efaeeb15-1f1d-49a0-80ab-715b12006bc2)
